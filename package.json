@@ -1,0 +1,33 @@
+{
+  "name": "el-message-plus",
+  "version": "0.0.1",
+  "description": "enhancement for element ui message component",
+  "config": {
+    "libName": "el-message-plus"
+  },
+  "keywords": [
+    "el-message-plus",
+    "element ui",
+    "element-ui",
+    "vue",
+    "$message",
+    "message"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/el-message-plus.umd.js",
+  "module": "dist/el-message-plus.esm.js",
+  "unpkg": "dist/el-message-plus.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/el-message-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/el-message-plus/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/el-message-plus#readme",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "babel-plugin-component": "^1.1.1"
+  }
+}
