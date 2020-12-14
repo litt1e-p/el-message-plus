@@ -1,6 +1,6 @@
 {
   "name": "el-message-plus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "enhancement for element ui message component",
   "config": {
     "libName": "el-message-plus"
