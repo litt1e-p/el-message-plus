@@ -1,6 +1,6 @@
 {
   "name": "el-message-plus",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "enhancement for element ui message component",
   "config": {
     "libName": "el-message-plus"
@@ -27,8 +27,9 @@
   },
   "homepage": "https://github.com/litt1e-p/el-message-plus#readme",
   "dependencies": {
-    "vue": "^2.6.11",
+    "vue": "^2.6.12",
     "babel-plugin-component": "^1.1.1",
-    "core-js": "^3.8.1"
+    "core-js": "^3.8.1",
+    "regenerator-runtime": "^0.13.7"
   }
 }
