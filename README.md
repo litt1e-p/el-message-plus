@@ -1,6 +1,6 @@
 # el-message-plus
 
-enhancement for [element-ui](https://www.npmjs.com/package/element-ui) message component which providing a message length limt option for auto-holding.
+ Vue2.x wrapper enhancement component for [element-ui](https://www.npmjs.com/package/element-ui) message component which providing a message length limt option for auto-holding.
 
 # Usage
 
